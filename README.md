@@ -6,7 +6,7 @@
 <p align="center">A Full time student at Microverse learning Full-stack Web Development,sports lover and a Handball player in my spare time, Open to new opportunities.
 </p>
 
-![Cover photo](banner.png)
+![Cover photo](Banner.png)
 <img src="https://komarev.com/ghpvc/?username=codehass" alt="codehass" />
 
 - 🔭 I’m currently working on different kinds of projects!
