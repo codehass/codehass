@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=codehass" alt="codehass" />
 
 <h1 align="center">Hi 👋, I'm Hassan EL OUARDY</h1>
 
@@ -8,6 +7,13 @@
 </p>
 
 ![Cover photo](banner.png)
+<img src="https://komarev.com/ghpvc/?username=codehass" alt="codehass" />
+
+- 🔭 I’m currently working on different kinds of projects!
+- 👨‍🚀 I'm currently learning full-stack development at [Microverse](https://github.com/microverseinc).
+- 🌍 I'm currently collaborating with other devs from all over the world.
+- ⚡ Fun fact: I like to learn more languages in my spare time.
+- 📫 Feel free to reach out to me at: hassan.elouardy06@gmail.com
 ### 📫 Contacte me on:
 
 <p align="left">
@@ -34,18 +40,3 @@
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codehass&show_icons=true&theme=nightowl&count_private=true"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehass&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
-<!--
-**codehass/codehass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
