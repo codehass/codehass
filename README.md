@@ -47,6 +47,11 @@
   <img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
 </div>
 
+<h2 align="left">Certificates & Licenses</h2>
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/b45e0335-93d8-4fd2-ad05-d100fc232c9f#gs.z5h5bk" target="blank"><img src="./photos/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/0b76f5c9-3875-4419-9d36-d0286031a21e#gs.z5h5ft" target="blank"><img src="./photos/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/0ebf4558-7b54-42da-8e15-df30e7d59078#gs.z5h6ba" target="blank"><img src="./photos/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/eb078b2e-6d46-4fed-bcd2-e9d6278222f4#gs.z5h6fv" target="blank"><img src="./photos/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/ada5e14c-3553-4e74-b0cf-483305b4ce50#gs.z5h6ag" target="blank"><img src="./photos/ror-badge.png" width="80">
+</p>
+
 
 <h2 align ="left">My GitHub Stats</h2>
 <div>
