@@ -3,7 +3,7 @@
 
 <h3 align="center">A full-stack web developer and an electrical engineer from Morocco.</h3>
  <br />
-<p align="center">A Full-time student at Microverse learning Full-stack Web Development, a sports lover, and a Handball player in my spare time, Open to new opportunities.
+<p align="center">A Full-stack Web Developer, passionate about sports and an active Handball player. Always open to new opportunities and challenges!
 </p>
 
 ![Cover photo](Banner.png)
