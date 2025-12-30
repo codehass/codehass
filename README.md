@@ -80,12 +80,12 @@ I enjoy turning complex problems into simple, elegant solutions and I’m contin
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-[![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/codehass/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/codehass/github-profile-summary-cards) [![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/codehass/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/codehass/github-profile-summary-cards) [![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/codehass/github-profile-summary-cards)
+## 📊 GitHub Activity
 
-<!-- <div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codehass&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehass&theme=nightowl&layout=compact"/>
+![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)
 
-</div> -->
+![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)
+[![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/2-most-commit-language.svg)]
+
+![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/3-stats.svg)
+![](https://raw.githubusercontent.com/codehass/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/4-productive-time.svg)
