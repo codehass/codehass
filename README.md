@@ -1,12 +1,11 @@
 <h1>👋 Hi there, I'm Hassan EL OUARDY</h1>
 
 <h3>
-Full-Stack Developer | AI Enthusiast
+Full-Stack Developer | AI Integration Specialist
 </h3>
 
 <p>
-I’m a frontend-focused full-stack developer with a strong passion for building clean, scalable, and user-friendly web applications.  
-I enjoy turning complex problems into simple, elegant solutions and I’m continuously improving my skills across frontend, backend, and AI-powered applications.
+I'm a full-stack developer specializing in building production-ready AI-powered web applications using React, Next.js, and Python FastAPI backends. I bridge the gap between modern frontend interfaces and intelligent backend systems — from LLM integration and ML model deployment to clean, scalable SaaS UIs.
 </p>
 
 <p>
@@ -24,13 +23,14 @@ I enjoy turning complex problems into simple, elegant solutions and I’m contin
 
 ### 🚀 About Me
 
-- 🤖 Currently learning **AI & Machine Learning** (ML fundamentals, data processing, AI-powered features)
-- 🎓 Certified full-stack developer from [Microverse](https://github.com/microverseinc)
-- 🔭 Currently working on **full-stack projects** (React / Next.js / APIs)
-- ⚛️ Frontend focus: **FastAPI, React, Next.js, TypeScript, Tailwind CSS**
-- 🧠 Backend experience with **Ruby on Rails, Express.js, Spring Boot**
+- 🤖 Currently enrolled in **AI Developer program at Simplon Maghreb** — ML, Deep Learning, Computer Vision, NLP
+- 🔭 Currently building **production-ready AI-powered full-stack applications**
+- ⚛️ Frontend expertise: **React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit**
+- 🧠 Backend & AI: **FastAPI, Python, Scikit-learn, TensorFlow, OpenCV, Gemini & Claude APIs**
+- 🗄️ Data & DevOps: **PostgreSQL, Supabase, Docker, GitHub Actions, Vercel, AWS basics**
+- 💼 Professional experience at **Logic Solutions (Germany)** and **Juubix (UK)** — remote
+- 🎓 Certified Full-Stack Developer from [Microverse](https://github.com/microverseinc) | Electrical Engineering background (ENSA Agadir)
 - 🌍 Experienced in **remote collaboration** with international teams
-- 🎓 Background in **Electrical Engineering**, now fully transitioned to software development
 - 🌐 Languages: **Arabic, French, English**
 - 📫 Reach me at: **hassan.elouardy06@gmail.com**
 
