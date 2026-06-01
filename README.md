@@ -1,11 +1,11 @@
 <h1>👋 Hi there, I'm Hassan EL OUARDY</h1>
 
 <h3>
-Full-Stack Developer | AI Integration Specialist
+Full-Stack AI Developer | AI Integration Specialist
 </h3>
 
 <p>
-I'm a full-stack developer specializing in building production-ready AI-powered web applications using React, Next.js, and Python FastAPI backends. I bridge the gap between modern frontend interfaces and intelligent backend systems — from LLM integration and ML model deployment to clean, scalable SaaS UIs.
+I'm a full-stack AI developer specializing in building production-ready AI-powered web applications using React, Next.js, and Python FastAPI backends. I bridge the gap between modern frontend interfaces and intelligent backend systems — from LLM integration and ML model deployment to clean, scalable SaaS UIs.
 </p>
 
 <p>
